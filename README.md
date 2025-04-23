@@ -34,7 +34,7 @@
 " title="Gmail" target="_blank">
     <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         alt="Gmail"
-        style="max-width: 25%; height: auto;"></a>
+        style="max-width: 100%; height: auto;"></a>
 
 
 <a href="https://api.whatsapp.com/send?phone=201116235207" target="_blank" rel="noopener noreferrer">
