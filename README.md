@@ -72,36 +72,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
         alt="Visual Studio" style="max-width: 100%;"></a>
 </p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<br>
-<p align="center" dir="auto">
-  
-    <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5" style="max-width: 100%;"></a>
-    <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white"
-            alt="CSS3" style="max-width: 100%;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-            alt="JavaScript" style="max-width: 100%;"></a>
-    <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/bootstrap-%23752B8C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-            alt="Bootstrap" style="max-width: 100%;"></a>
-    <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-            alt="Tailwind CSS" style="max-width: 100%;"></a>
-    <a href="https://reactjs.org/" title="React" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"
-            alt="React" style="max-width: 100%;"></a>
-    <a href="https://sass-lang.com/" title="Sass" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"
-            alt="Sass" style="max-width: 100%;"></a>
 
-  <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
-        alt="Visual Studio" style="max-width: 100%;"></a>
-</p>
 <div class="markdown-heading" dir="auto">
  <h2>
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
