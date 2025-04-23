@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Omar Hussein</h1>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Front End Developer | Crafting intuitive, pixel-perfect web interfaces</h3>
+<h1 align="center">Hi 👋, I'm Abdalmalk Mohammed</h1>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Front End Developer</h3>
 
 
   
