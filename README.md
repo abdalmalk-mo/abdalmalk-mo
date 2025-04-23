@@ -37,18 +37,12 @@
         style="max-width: 100%; height: auto;"></a>
 
 
-<a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank" rel="noopener noreferrer">
+<a href="https://api.whatsapp.com/send?phone=201116235207" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
 
-<a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
-         alt="Twitter (X)" 
-         style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.instagram.com/omarssaqr/" target="_blank" title="Instagram" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a>
 
-<a href="https://www.facebook.com/OmarSakkr" target="_blank" title="Facebook" rel="noopener noreferrer">
+<a href="https://www.facebook.com/profile.php?id=100041678024056" target="_blank" title="Facebook" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a>
 
 </p>
