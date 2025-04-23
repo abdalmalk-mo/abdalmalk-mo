@@ -7,24 +7,7 @@
 <div align="center">
     <a href="https://github.com/OmarrSakr/OmarrSakr/stargazers">
         <img src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr" alt="Stars Badge"/></a>
-    <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
-        <img src="https://img.shields.io/github/forks/OmarrSakr/OmarrSakr" alt="Forks Badge"/></a>
-  <a href="https://github.com/OmarrSakr/OmarrSakr/pulls">
-        <img src="https://img.shields.io/github/issues-pr/OmarrSakr/OmarrSakr?color=orange" alt="Pull Requests Badge"/></a>
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
-        <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
-    <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
-   <a href="https://x.com/OmarrSaqr" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
-
-<a href="https://www.linkedin.com/in/omarrhussein" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-omarrhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussein" alt="LinkedIn: omarrhussein" style="max-width: 100%; height: auto;"></a>
-
-
- <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
+ 
 </div>
 <br>
 <p align="center" dir="auto">
